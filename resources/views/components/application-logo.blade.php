@@ -1,0 +1,1 @@
+<span {{ $attributes->merge(['class' => 'inline-flex items-center gap-2 text-sky-900']) }}><span class="grid h-9 w-9 place-items-center rounded-xl bg-sky-100 text-xl">🐟</span><span class="text-base font-extrabold tracking-tight">AquaLok <span class="text-sky-500">Store</span></span></span>
